@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pult Boshqaruv</string>
+    <string name="xizmat_tavsifi">Bluetooth pultdagi tugmalarni qabul qiladi va qizil tugma bilan sichqoncha rejimini yoqadi.</string>
+</resources>
